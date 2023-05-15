@@ -1,0 +1,20 @@
+c:\users\admin\documents\visual studio 2015\Projects\just for test\just for test\bin\roslyn\csc.exe
+c:\users\admin\documents\visual studio 2015\Projects\just for test\just for test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\admin\documents\visual studio 2015\Projects\just for test\just for test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\admin\documents\visual studio 2015\Projects\just for test\just for test\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\admin\documents\visual studio 2015\Projects\just for test\just for test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\admin\documents\visual studio 2015\Projects\just for test\just for test\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\admin\documents\visual studio 2015\Projects\just for test\just for test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\admin\documents\visual studio 2015\Projects\just for test\just for test\bin\roslyn\System.Collections.Immutable.dll
+c:\users\admin\documents\visual studio 2015\Projects\just for test\just for test\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\admin\documents\visual studio 2015\Projects\just for test\just for test\bin\roslyn\vbc.exe
+c:\users\admin\documents\visual studio 2015\Projects\just for test\just for test\bin\roslyn\VBCSCompiler.exe
+c:\users\admin\documents\visual studio 2015\Projects\just for test\just for test\bin\roslyn\VBCSCompiler.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\just for test\just for test\bin\just for test.dll.config
+c:\users\admin\documents\visual studio 2015\Projects\just for test\just for test\bin\just for test.dll
+c:\users\admin\documents\visual studio 2015\Projects\just for test\just for test\bin\just for test.pdb
+c:\users\admin\documents\visual studio 2015\Projects\just for test\just for test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\admin\documents\visual studio 2015\Projects\just for test\just for test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\admin\documents\visual studio 2015\Projects\just for test\just for test\obj\Debug\just for test.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\just for test\just for test\obj\Debug\just for test.dll
+c:\users\admin\documents\visual studio 2015\Projects\just for test\just for test\obj\Debug\just for test.pdb
